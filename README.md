@@ -10,9 +10,9 @@
 </head>
 ,<style>
   body {background-color:black;}
-  h1{color: darkgreen;}
-  h2{color: red; border-left-color: aliceblue;}
-  h3{color: red;outline-color: whitesmoke;;}
+  h1{color: darkgreen;border: 65px;}
+  h2{color: red; border-left-color: aliceblue; border-radius: 65px;}
+  h3{color: red;outline-color: whitesmoke;border-radius: 65px;}
   p{color: red;outline-color: whitesmoke;}
   li{color: red;}
   li{font-size: x-large;}
